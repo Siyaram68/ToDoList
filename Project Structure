@@ -1,0 +1,8 @@
+ToDoListApp/
+│
+├── src/
+│   └── ToDoListApp.java
+│
+├── README.md
+│
+└── .gitignore
