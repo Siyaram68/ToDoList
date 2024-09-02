@@ -30,5 +30,3 @@ This is a simple console-based To-Do List application written in Java. The appli
     ```sh
     java -cp src ToDoListApp
     ```
-
-## Example Usage
